@@ -44,6 +44,6 @@ n is number recursions per node, not per layer.
 
 The bridge formula is mapping relational from a0 a reference to find new values...
 
-### This repository have an app , you can donwload to mapp chemical elemnts in 3DCOM, study patterns and more..
+### This repository have an app , you can donwload to mapp chemical elements on 3DCOM, study patterns and more..
 
 ### Enjoy!
